@@ -8,5 +8,5 @@ np=int(l//q)
 rw=l%q
 index=np%p
 print(f"{names[index]} {rw:.1f}")
-kdlgdflkgfdgljkd
+
 
